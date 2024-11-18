@@ -2,3 +2,4 @@
 payload:
   # claude
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,a.nel.cloudflare.com
