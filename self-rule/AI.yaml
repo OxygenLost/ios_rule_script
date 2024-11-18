@@ -1,0 +1,4 @@
+# clash
+payload:
+  # claude
+  - DOMAIN-SUFFIX,claudeusercontent.com
