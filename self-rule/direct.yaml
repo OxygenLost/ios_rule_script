@@ -23,7 +23,9 @@ payload:
   # github
   - DOMAIN-SUFFIX,github.site
   - DOMAIN-SUFFIX,github.store
-
+  # test-ipv6
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,ipv6-test.com
   # ewlink
   - DOMAIN-SUFFIX,ewelink.cc
   - DOMAIN-SUFFIX,coolkit.cc
