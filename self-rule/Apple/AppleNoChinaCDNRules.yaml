@@ -58,3 +58,4 @@ payload:
     # 其他
     - DOMAIN-SUFFIX,apple-dns.net
     - DOMAIN-SUFFIX,icloud.com
+    - DOMAIN-SUFFIX,apple.com
