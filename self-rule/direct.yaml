@@ -1,5 +1,6 @@
 # clash
 payload:
+  - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,2002514.xyz
   - DOMAIN-SUFFIX,vrdesktop.net
