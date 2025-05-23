@@ -57,6 +57,3 @@ payload:
     - DOMAIN,mask.icloud.com
     # 其他
     - DOMAIN-SUFFIX,apple-dns.net
-    - DOMAIN-SUFFIX,icloud.com
-    - DOMAIN-SUFFIX,apple.com
-    - DOMAIN-SUFFIX,xp-cdn.apple.com
