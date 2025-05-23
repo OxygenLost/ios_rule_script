@@ -27,3 +27,5 @@ payload:
     - DOMAIN,download.developer.apple.com
     - DOMAIN,downloaddispatch.itunes.apple.com
     - DOMAIN,app-site-association.cdn-apple.com
+    - DOMAIN-SUFFIX,icloud-context.com
+    - DOMAIN-SUFFIX,xp-cdn.apple.com
