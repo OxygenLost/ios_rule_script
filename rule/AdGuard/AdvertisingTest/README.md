@@ -21,13 +21,13 @@
 
 ## 规则统计
 
-最后更新时间：2025-04-05 02:11:31
+最后更新时间：2025-05-23 02:13:13
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 192160  | 
-| TOTAL | 192160  | 
+| DOMAIN-SUFFIX | 199387  | 
+| TOTAL | 199387  | 
 
 
 ## AdGuard 
@@ -108,8 +108,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://easylist-downloads.adblockplus.org/easyprivacy.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://ruleset.isagood.day/reject.conf
-- https://ruleset.isagood.day/reject_drop.conf
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
