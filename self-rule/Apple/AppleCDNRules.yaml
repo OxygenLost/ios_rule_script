@@ -29,3 +29,4 @@ payload:
     - DOMAIN,app-site-association.cdn-apple.com
     - DOMAIN-SUFFIX,icloud-content.com
     - DOMAIN-SUFFIX,xp-cdn.apple.com
+    - DOMAIN-SUFFIX,itunes.apple.com
