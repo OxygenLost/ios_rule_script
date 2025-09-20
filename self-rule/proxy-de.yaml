@@ -35,10 +35,10 @@ payload:
   - DOMAIN-SUFFIX,bonify.de
 
   # wise
-  - DOMAIN-SUFFIX,authy.com
-  - DOMAIN-SUFFIX,wise.com
-  - DOMAIN-SUFFIX,fra-01.braze.eu
-  - DOMAIN,api.mixpanel.com
+  # - DOMAIN-SUFFIX,authy.com
+  # - DOMAIN-SUFFIX,wise.com
+  # - DOMAIN-SUFFIX,fra-01.braze.eu
+  # - DOMAIN,api.mixpanel.com
 
   # trading212
   - DOMAIN-SUFFIX,trading212.com
